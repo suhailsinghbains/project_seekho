@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+}
+.width-50{
+    width: 50%;
+}
+.textArea{
+    width: 90%;
+    resize: vertical;
+    height: 90%;
+}
+.wordBreak{
+    word-break: break-all;
+}
